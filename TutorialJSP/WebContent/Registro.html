@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="css/estilos.css">
+<title>Registro</title>
+</head>
+<body>
+	<h1 style="text-align:center">Registro</h1>
+	<form action="Recoge_datos.jsp" method="post">
+		<table width="35%" border="0">
+			<tr>
+				<td width="13%"><label for="nombre">Nombre: </label></td>
+				<td width="87%"><input type="text" name="nombre" id="nombre"></td>
+			</tr>
+			<tr>
+				<td width="13%"><label for="apellido">Apellido: </label></td>
+				<td width="87%"><input type="text" name="apellido" id="apellido"></td>
+			</tr>
+			<tr>
+				<td width="13%"><label for="usuario">Usuario: </label></td>
+				<td width="87%"><input type="text" name="usuario" id="usuario"></td>
+			</tr>
+			<tr>
+				<td width="13%"><label for="contrasena">Contraseña: </label></td>
+				<td width="87%"><input type="password" name="contrasena" id="contrasena"></td>
+			</tr>
+			<tr>
+				<td width="13%"><label for="pais">País: </label></td>
+				<td width="87%"><select name="pais" id="pais">
+					<option>Argentina</option>
+					<option>México</option>
+					<option>Colombia</option>
+					<option>Chile</option>
+					<option>Perú</option>
+					<option>España</option>
+				</select></td>
+			</tr>
+			<tr>
+				<td>Tecnologías: </td>
+				<td>
+				<label>
+					<input type="radio" name="tecnologias" value="Java" id="tecnologias_0">Java
+				</label>
+				<br>
+				<label>
+					<input type="radio" name="tecnologias" value="PHP" id="tecnologias_1">PHP
+				</label>
+				<br>
+				<label>
+					<input type="radio" name="tecnologias" value="Javascript" id="tecnologias_2">JavasCript
+				</label>						
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><input type="submit" name="button" id="button" value="Enviar"></td>
+			</tr>
+		</table>
+		<p><br>
+		</p>
+	</form>
+</body>
+</html>

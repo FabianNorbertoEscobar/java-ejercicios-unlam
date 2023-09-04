@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping 
+	PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="hibernatePackage.Persona.java" table="PERSONA">
+		<id column="dni" name="dni" type="int"> <!-- Acá van las claves -->
+		</id>
+		<field column="apellido" name="apellido" type="string">
+		</field>
+		<field column="nombre" name="nombre" type="string">
+		</field>
+		<field column="sexo" name="sexo" type="char">
+		</field>
+
+	</class>
+</hibernate-mapping>

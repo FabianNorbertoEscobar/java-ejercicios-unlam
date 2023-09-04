@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping 
+	PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<!-- Por cada transaccion hacemos un session-factory, lo que sea que eso 
+			signifique -->
+		<property name="hibernate.connection.driver_class">
+			org.sqlite.JDBC
+		</property>
+
+		<property name="hibernate.connection.url">
+			jdbc:sqlite:C:\Users\laboratorios\Desktop\Magliano_Queirolo\Desarrollo\Hibernate\introduccionHibernate.sqlite
+		</property>
+
+		<property name="hibernate.dialect">
+			com.enigmabridge.hibernate.dialect.SQLiteDialect
+		</property>
+
+		<property name="show_sql"> <!-- Che mostrame cual es el SQL que generó -->
+			true
+		</property>
+
+		<mapping resource="hibernatePackage/persona.hbm.xml"/>
+
+	</session-factory>
+</hibernate-configuration>

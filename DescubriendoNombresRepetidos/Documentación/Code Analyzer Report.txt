@@ -1,0 +1,29 @@
+#######################################################################
+# Code Analyzer 0.7.0
+# Report for Code Set: New
+# Extension Set      : Java
+# Date               : Thu Aug 31 16:16:12 ART 2017
+# Displaying         : Files and Folders
+#######################################################################
+
+File Name                          Files    Lines    AVG Len  Code     Comments White SP Cd/Cm+WS Cd/Cm    Cd/WS    % Code   Cd/File  Cm/File  WS/File  
+--------------------------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- 
+
+New
+--------------------------------          4      213       28      170        7       36     3,95    24,29     4,72     0,80       42        1        9
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\DescubriendoNombresRepetidos
+--------------------------------          4      213       28      170        7       36     3,95    24,29     4,72     0,80       42        1        9
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\DescubriendoNombresRepetidos\src
+--------------------------------          4      213       28      170        7       36     3,95    24,29     4,72     0,80       42        1        9
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\DescubriendoNombresRepetidos\src\principalPackage
+--------------------------------          3      146       24      113        7       26     3,42    16,14     4,35     0,77       37        2        8
+EjercicioOIA.java                         1       17       18       12        0        5     2,40     0,00     2,40     0,71       12        0        5
+Main.java                                 1       47       24       40        1        6     5,71    40,00     6,67     0,85       40        1        6
+NombresRepetidos.java                     1       82       25       61        6       15     2,90    10,17     4,07     0,74       61        6       15
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\DescubriendoNombresRepetidos\src\testing
+--------------------------------          1       67       37       57        0       10     5,70     0,00     5,70     0,85       57        0       10
+TestNombesRepetidos.java                  1       67       37       57        0       10     5,70     0,00     5,70     0,85       57        0       10

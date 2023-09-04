@@ -1,0 +1,32 @@
+#######################################################################
+# Code Analyzer 0.7.0
+# Report for Code Set: New
+# Extension Set      : Java
+# Date               : Tue Oct 17 21:46:13 ART 2017
+# Displaying         : Files and Folders
+#######################################################################
+
+File Name                          Files    Lines    AVG Len  Code     Comments White SP Cd/Cm+WS Cd/Cm    Cd/WS    % Code   Cd/File  Cm/File  WS/File  
+--------------------------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- 
+
+New
+--------------------------------          4      218       25      175        2       41     4,07    87,50     4,27     0,80       43        0       10
+
+C:\Users\laboratorios\Desktop\LópezEscobar\TenisRecargado
+--------------------------------          4      218       25      175        2       41     4,07    87,50     4,27     0,80       43        0       10
+
+C:\Users\laboratorios\Desktop\LópezEscobar\TenisRecargado\src
+--------------------------------          3      153       21      122        2       29     3,94    61,00     4,21     0,80       40        0        9
+
+C:\Users\laboratorios\Desktop\LópezEscobar\TenisRecargado\src\tenis
+--------------------------------          3      153       21      122        2       29     3,94    61,00     4,21     0,80       40        0        9
+EjercicioOIA.java                         1       16       15       11        0        5     2,20     0,00     2,20     0,69       11        0        5
+Main.java                                 1       52       26       43        2        7     4,78    21,50     6,14     0,83       43        2        7
+TenisRecargado.java                       1       85       20       68        0       17     4,00     0,00     4,00     0,80       68        0       17
+
+C:\Users\laboratorios\Desktop\LópezEscobar\TenisRecargado\test
+--------------------------------          1       65       35       53        0       12     4,42     0,00     4,42     0,82       53        0       12
+
+C:\Users\laboratorios\Desktop\LópezEscobar\TenisRecargado\test\tenis
+--------------------------------          1       65       35       53        0       12     4,42     0,00     4,42     0,82       53        0       12
+TenisTest.java                            1       65       35       53        0       12     4,42     0,00     4,42     0,82       53        0       12

@@ -1,0 +1,29 @@
+#######################################################################
+# Code Analyzer 0.7.0
+# Report for Code Set: New
+# Extension Set      : Java
+# Date               : Fri Sep 01 01:20:10 ART 2017
+# Displaying         : Files and Folders
+#######################################################################
+
+File Name                          Files    Lines    AVG Len  Code     Comments White SP Cd/Cm+WS Cd/Cm    Cd/WS    % Code   Cd/File  Cm/File  WS/File  
+--------------------------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- 
+
+New
+--------------------------------          4      216       29      180        1       35     5,00   180,00     5,14     0,83       45        0        8
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\K-mas-pequenios
+--------------------------------          4      216       29      180        1       35     5,00   180,00     5,14     0,83       45        0        8
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\K-mas-pequenios\src
+--------------------------------          4      216       29      180        1       35     5,00   180,00     5,14     0,83       45        0        8
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\K-mas-pequenios\src\kmaspequenios
+--------------------------------          3      108       23       88        1       19     4,40    88,00     4,63     0,81       29        0        6
+EjercicioOIA.java                         1       17       18       12        0        5     2,40     0,00     2,40     0,71       12        0        5
+KMasPequenios.java                        1       46       23       38        0        8     4,75     0,00     4,75     0,83       38        0        8
+Main.java                                 1       45       24       38        1        6     5,43    38,00     6,33     0,84       38        1        6
+
+D:\UNLaM\PROGRAMACIÓN AVANZADA\FABIAN\Java Eclipse\K-mas-pequenios\src\testing
+--------------------------------          1      108       36       92        0       16     5,75     0,00     5,75     0,85       92        0       16
+TestK.java                                1      108       36       92        0       16     5,75     0,00     5,75     0,85       92        0       16

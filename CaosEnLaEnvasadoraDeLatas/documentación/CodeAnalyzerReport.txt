@@ -1,0 +1,33 @@
+#######################################################################
+# Code Analyzer 0.7.0
+# Report for Code Set: New
+# Extension Set      : Java
+# Date               : Tue Oct 17 16:52:59 ART 2017
+# Displaying         : Files and Folders
+#######################################################################
+
+File Name                          Files    Lines    AVG Len  Code     Comments White SP Cd/Cm+WS Cd/Cm    Cd/WS    % Code   Cd/File  Cm/File  WS/File  
+--------------------------------   -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- 
+
+New
+--------------------------------          5      259       28      205       13       41     3,80    15,77     5,00     0,79       41        2        8
+
+C:\Users\laboratorios\Desktop\eclipseWorkspace\CaosEnLaEnvasadoraDeLatas
+--------------------------------          5      259       28      205       13       41     3,80    15,77     5,00     0,79       41        2        8
+
+C:\Users\laboratorios\Desktop\eclipseWorkspace\CaosEnLaEnvasadoraDeLatas\src
+--------------------------------          4      196       25      152       13       31     3,45    11,69     4,90     0,78       38        3        7
+
+C:\Users\laboratorios\Desktop\eclipseWorkspace\CaosEnLaEnvasadoraDeLatas\src\problemaOIA
+--------------------------------          4      196       25      152       13       31     3,45    11,69     4,90     0,78       38        3        7
+EjercicioOIA.java                         1       16       16       11        0        5     2,20     0,00     2,20     0,69       11        0        5
+EnvasadoraDeLatas.java                    1      108       30       83       12       13     3,32     6,92     6,38     0,77       83       12       13
+Main.java                                 1       45       23       38        1        6     5,43    38,00     6,33     0,84       38        1        6
+Secuencia.java                            1       27       16       20        0        7     2,86     0,00     2,86     0,74       20        0        7
+
+C:\Users\laboratorios\Desktop\eclipseWorkspace\CaosEnLaEnvasadoraDeLatas\test
+--------------------------------          1       63       36       53        0       10     5,30     0,00     5,30     0,84       53        0       10
+
+C:\Users\laboratorios\Desktop\eclipseWorkspace\CaosEnLaEnvasadoraDeLatas\test\problemaOIA
+--------------------------------          1       63       36       53        0       10     5,30     0,00     5,30     0,84       53        0       10
+EnvasadoraTest.java                       1       63       36       53        0       10     5,30     0,00     5,30     0,84       53        0       10
